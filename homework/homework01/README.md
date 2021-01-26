@@ -1,5 +1,5 @@
 # Problems for Assignment #1
-## Learning Outcomes:
+## Learning Objectives:
 <blockquote>
 1. Verifying the development environment is set up properly for GitHub<br />
 2. Verifying the development environment is set up and is functional for compiling "C" programs<br />
