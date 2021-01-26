@@ -65,7 +65,7 @@ Remember that the prefix "0x" or "0X" indicates that a value is shown in hexadec
   - 0xC0FF0000, when iterpreted as an IEEE-754 pattern, is in decimal:
   - 0xC059000000000000, when iterpreted as an IEEE-754 pattern, is in decimal:
 
-## Evaluation Criteria for Homework 02
+## Evaluation Criteria for Homework 03
 ### "CALCULATION" PROBLEMS
   - All questions worth one point each
   - Total possible points: 46
