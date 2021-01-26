@@ -1,9 +1,9 @@
 # Problems for Assignment #4
 ## Learning Outcomes
 <blockquote>
-  1. Practice creating logic diagram models from truth table and text descriptions
-  2. Practice with manipulating register contents using various operations
-  3. Practice writing and interpreting assembly language programs
+  1. Practice creating logic diagram models from truth table and text descriptions<br />
+  2. Practice with manipulating register contents using various operations<br />
+  3. Practice writing and interpreting assembly language programs<br />
 </blockquote>
 
 ### Logic Design Problems
