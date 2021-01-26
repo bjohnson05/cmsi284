@@ -1,11 +1,11 @@
 # Problems for Assignment #3
-## Learning Outcomes:
+## Learning Objectives:
 <blockquote>
   1. Understanding different number representations<br />
-  1. Practice with the different common number bases used by computers<br />
-  1. Practice translating values between different bases<br />
-  1. Practice translating values between different representations<br />
-  1. Practice/understanding of carry, overflow, saturated, and modular computer arithmetic
+  2. Practice with the different common number bases used by computers<br />
+  3. Practice translating values between different bases<br />
+  4. Practice translating values between different representations<br />
+  5. Practice/understanding of carry, overflow, saturated, and modular computer arithmetic
 </blockquote>
 
 Please do all these problems WITHOUT using a computer or calculator.
@@ -15,6 +15,8 @@ The purpose of these exercises is to help you develop your skill.
 Taking the time to practice will give you a better ability and understanding of the material.
 
 Remember that the prefix "0x" or "0X" indicates that a value is shown in hexadecimal [base 16].
+
+## Problems
 
   - 0xFAC3 in binary is:
   - 0xFAC3 as an unsigned decimal is:
