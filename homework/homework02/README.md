@@ -2,7 +2,7 @@
 ## Learning Outcomes
 <blockquote>
 1. One main learning outcome: drilling in some of the initial concepts from the first and second weeks<br />
-1. Ancillary learning outcome: familiarity with terms, names, people, and so on that are instrumental to computer systems
+2. Ancillary learning outcome: familiarity with terms, names, people, and so on that are instrumental to computer systems
 </blockquote>
 
 Answers to the following questions can be found in the information on the course weekly pages for weeks one and two, or you can look them up on the Internet. If you do that, please include a link to where the answer came from.  Try to answer in your own words, though, from your "head knowledge" because that will help you to really remember these rather than just regurgitating them for a grade.
