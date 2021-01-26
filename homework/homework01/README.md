@@ -2,9 +2,9 @@
 ## Learning Outcomes:
 <blockquote>
 1. Verifying the development environment is set up properly for GitHub<br />
-1. Verifying the development environment is set up and is functional for compiling "C" programs<br />
-1. Verifying the development environment is set up and is functional for assembling "nasm" programs<br />
-1. Verifying that the instructor can access the GitHub repository to provide feedback evaluations during the semester
+2. Verifying the development environment is set up and is functional for compiling "C" programs<br />
+3. Verifying the development environment is set up and is functional for assembling "nasm" programs<br />
+4. Verifying that the instructor can access the GitHub repository to provide feedback evaluations during the semester
 </blockquote>
 
 This homework assignment simply extends the in-class assignment for week one. In "classwork01" you set up and compiled a simple "C" program to make sure it worked. This proved the "gcc" compiler and linker is working on your computer. It also makes sure your editor is working properly so that you can create source code with it. These are basic steps, but I want to make sure everyone is on equal footing from the start of the semester.
