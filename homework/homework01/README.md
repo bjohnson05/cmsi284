@@ -94,7 +94,7 @@ The second part of this homework is to verify that your nasm assembler is workin
 5. Now that you have both the "C" and nasm versions working, see if you can figure out how to do the same "dressing up" of your assembler code, putting extra blank lines before and after the text output. Feel free to search the Internet for help. [Hint: check the "message" label in the code for clues!]
 6. When everything is working, be sure to commit your code to your repo!
 
-## Evaluation Criteria for Homework 01
+### Evaluation Criteria for Homework 01
 1. SAYHELLO.C
   - file exists          1 pt.
   - file compiles        1 pt.
@@ -102,11 +102,11 @@ The second part of this homework is to verify that your nasm assembler is workin
   - prompts user         1 pt.
   - reads input          1 pt.
   - displays hello name  1 pt.
-1. SAYHELLO.ASM
+2. SAYHELLO.ASM
   - file exists          1 pt.
   - file assembles       1 pt.
   - programruns          1 pt.
-1. GENERAL
+3. GENERAL
   - code style           1 pt.
 
 Total possible points: 10
