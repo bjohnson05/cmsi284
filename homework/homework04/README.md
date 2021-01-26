@@ -56,23 +56,23 @@
 
 ## Evaluation Criteria for Homework 04
 #### LOGIC DESIGN
-   Question 1a: logic design           10 pts.
-   Question 1b: logic design            5 pts.
-   Question 2: logic design            10 pts.
+  - Question 1a: logic design           10 pts.
+  - Question 1b: logic design            5 pts.
+  - Question 2: logic design            10 pts.
 #### REGISTER OPERATIONS
-   Question 3a: Reg. clear even         2 pts.
-   Question 3b: Reg. set last 3         2 pts.
-   Question 3c: Reg./8 remainder        2 pts.
-   Question 3d: Reg. set to -1          2 pts.
-   Question 3e: Reg. invert 2 MSBs      2 pts.
-   Question 3f: Register computation    2 pts.
+  - Question 3a: Reg. clear even         2 pts.
+  - Question 3b: Reg. set last 3         2 pts.
+  - Question 3c: Reg./8 remainder        2 pts.
+  - Question 3d: Reg. set to -1          2 pts.
+  - Question 3e: Reg. invert 2 MSBs      2 pts.
+  - Question 3f: Register computation    2 pts.
 #### ASSEMBLY PROGRAMS
-   Question 4: asm program 1a          11 pts.
-   Question 5: asm program 1b          11 pts.
-   Question 6: asm GCD prog.           11 pts.
-   Question 7: asm swap code fragment   5 pts.
-   Question 8: asm jmp to address       5 pts.
-   Question 9a: explain what it does    5 pts.
-   Question 9b: explain why it happens  5 pts.
+  - Question 4: asm program 1a          11 pts.
+  - Question 5: asm program 1b          11 pts.
+  - Question 6: asm GCD prog.           11 pts.
+  - Question 7: asm swap code fragment   5 pts.
+  - Question 8: asm jmp to address       5 pts.
+  - Question 9a: explain what it does    5 pts.
+  - Question 9b: explain why it happens  5 pts.
 
 Total possible points: 90
