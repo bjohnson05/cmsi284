@@ -4,7 +4,8 @@
   1. Practice writing nasm programs and functions<br />
   2. Practice writing and using <q>C</q> programs<br />
   3. Practice writing and using <q>C</q> to call nasm functions<br />
-  4. Experience with using nasm and <q>C</q> to investigate network issues of byte-ordering and parity<br />
+  4. Practice writing and using nasm to call <q>C</q> functions<br />
+  5. Experience with using nasm and <q>C</q> to investigate network issues of byte-ordering and parity<br />
 </blockquote>
 
 ### The Problems
